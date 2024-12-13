@@ -1,0 +1,17 @@
+{
+    "avg_latency": 0.37,
+    "cpu_core_cycles": 1429418126,
+    "cpu_core_instructions": 232769739,
+    "insn_per_cycle": 0.16,
+    "cpu_core_cache_misses": 259243,
+    "cache_miss_percentage": 0.6,
+    "cpu_core_branch_misses": 1133621,
+    "branch_miss_percentage": 2.48,
+    "cpu_core_baclears_any": 725438,
+    "cpu_core_br_inst_retired_all_branches": 45632631,
+    "cpu_core_br_misp_retired_all_branches": 1137859,
+    "cpu_core_br_inst_retired_cond": 27499119,
+    "cpu_core_br_misp_retired_cond": 98849,
+    "cpu_core_br_inst_retired_indirect": 4595257,
+    "cpu_core_br_misp_retired_indirect_call": 25722
+}
